@@ -3,23 +3,33 @@ A machine learning project aimed at enhancing women’s safety by analyzing data
 
 ## Features
 Safety Prediction: Predicts the safety of a location based on various parameters such as crime rates, time of day, and environmental conditions.
+
 Real-time Alerts: Sends alerts when potentially unsafe situations are identified.
+
+
 Data Visualization: Interactive graphs and charts for analyzing trends in safety-related data.
+
 Customizable: Modular design allows integration with additional datasets or applications like mobile apps.
 
 ## Dataset
 The project uses data including:
 
 Historical crime rates
+
 Time and location details
+
 People frequency
+
 Availability of Bar and Police Station
 
 ## Technologies Used
 Programming Language: Python
-Libraries:
+
+### Libraries:
 Pandas: Data manipulation and analysis
+
 Matplotlib & Seaborn: Data visualization
+
 Scikit-learn: Machine learning models
 
 
