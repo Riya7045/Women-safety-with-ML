@@ -46,7 +46,7 @@ Validates the model using accuracy, precision, and recall metrics.
 Visualization:
 Generates interactive graphs for insights into safety trends.
 
-Usage
+## Usage
 Analyze Safety:
 Run the application to check safety scores for specific locations or times.
 
